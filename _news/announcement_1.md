@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: March 2023
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+My paper with [Tim Hunter](https://timhunter.humspace.ucla.edu/) titled "**On regular copying languages**" is accepted to the *Journal of Language Modelling* (Email me for a copy).

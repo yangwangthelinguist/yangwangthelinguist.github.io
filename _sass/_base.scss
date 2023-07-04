@@ -305,7 +305,7 @@ blockquote {
   text-align: center;
 
   .contact-icons {
-    font-size: 4rem;
+    font-size: 2rem;
 
     a {
       i::before {
@@ -548,6 +548,31 @@ footer.sticky-bottom {
 
 // Publications
 
+/* Mobile devices. With class="hidden-mobile" the element not show */
+@media (max-width: 576px) {
+  .hidden-mobile {
+    display: none;
+  }
+  /* Publications - Year display in mobile */
+  h2.year {
+  color: var(--global-divider-color);
+  border-bottom: 1px solid var(--global-divider-color);
+  margin-bottom: 2rem!important;
+  // reset
+  border-top: 0 !important;
+  padding-top: 0 !important;
+  margin-top: 0 !important;
+}
+}
+
+/* Bib type style */
+p.bibtitle {
+color: var(--global-theme-color);
+font-weight: 400;
+font-size: 1.5em;
+text-align: left;
+}
+
 .publications {
   margin-top: 2rem;
 
@@ -715,6 +740,14 @@ footer.sticky-bottom {
       }
 
       div.abstract.hidden.open {
+        border-color: var(--global-text-color);
+      }
+
+      div.citation.hidden {
+        border: dashed 1px var(--global-bg-color);
+      }
+
+      div.citation.hidden.open {
         border-color: var(--global-text-color);
       }
     }
