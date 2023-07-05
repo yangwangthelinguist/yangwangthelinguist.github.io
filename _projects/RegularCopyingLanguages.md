@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Regular copying langugaes
+title: Regular copying languages
 description: Reduplication as unbounded copying and its complexity
 img: assets/img/rcls.png
 importance: 1
@@ -31,7 +31,7 @@ For more details, see below:
     </div>
 </div>
 <div class="caption">
-    On the left, familiar language classes. On the right, regular copying languages.
+    On the left, familiar language classes. On the right, The class of regular copying languages (oval shape) in the classical Chomsky Hierarchy. 
 </div>
 
 
