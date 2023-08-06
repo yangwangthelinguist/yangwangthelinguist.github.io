@@ -3,6 +3,6 @@ layout: cv
 permalink: /CV/
 title: CV
 nav: true
-nav_order: 1
+nav_order: 4
 cv_pdf: YWang_CV.pdf
 ---

@@ -12,13 +12,15 @@ Total reduplication is common in natural language phonology and morphology. Howe
 ---
 
 For more details, see below:
-- **Master thesis**
+- **Master's thesis**
 
-    Wang, Yang. (2021). [Regular Languages Extended with Reduplication:  Formal Models, Proofs and Illustrations](https://escholarship.org/uc/item/4p03v92f).  Master's thesis, University of California, Los Angeles.
+    Wang, Yang. 2021. [Regular Languages Extended with Reduplication:  Formal Models, Proofs and Illustrations](https://escholarship.org/uc/item/4p03v92f).  Master's thesis, University of California, Los Angeles.
 - **18th SIGMORPHON** (a short version of my master thesis)
 
-    Wang, Yang. (2021). [Recognizing Reduplicated Forms: Finite-State Buffered Machines](https://aclanthology.org/2021.sigmorphon-1.20/). In Proceedings of the 18th SIGMORPHON Workshop on Computational Research in Phonetics, Phonology, and Morphology, pages 177–187, Online. Association for Computational Linguistics.
-- **2023 JLM paper** (an updated version of the proposed machine + a pumping lemma + discussion on *mode determinism* + some more theorems.)
+    Wang, Yang. 2021. [Recognizing Reduplicated Forms: Finite-State Buffered Machines](https://aclanthology.org/2021.sigmorphon-1.20/). In Proceedings of the 18th SIGMORPHON Workshop on Computational Research in Phonetics, Phonology, and Morphology, pages 177–187, Online. Association for Computational Linguistics.
+- **2023 JLM paper** (an updated version of the proposed machine + a pumping lemma + discussions on *mode determinism* + some more theorems.)
+    
+    Wang, Yang and [Tim Hunter](https://timhunter.humspace.ucla.edu/). 2023. [On regular copying languages](https://jlm.ipipan.waw.pl/index.php/JLM/article/view/342). *Journal of Language Modelling*, 11(1), 1–66. https://doi.org/10.15398/jlm.v11i1.342
 
 ---
 
