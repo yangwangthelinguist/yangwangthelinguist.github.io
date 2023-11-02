@@ -8,17 +8,19 @@ nav_order: 3
 ---
 
 <br/>
-### Current (Summer C; 2023)
-##### Instructor (UCLA) 
-- **Computational Linguistics I (Ling 185A)**       
-    - Office hours: M/W 3pm-4pm (PDT), or by appointment
-    - Office: Over zoom
-    - [Syllabus]({{ 'assets/pdf/Wang2023Ling185ASyllabus.pdf' | relative_url}})
+### Current (Fall 2023)
+I am not teaching this quarter.
+
 
 <br/>
 <hr>
 
 ### Past
+##### Instructor (UCLA)
+- **Computational Linguistics I (Ling 185A)**       
+    - in Summer Session C, 2023 
+    - [Syllabus]({{ 'assets/pdf/Wang2023Ling185ASyllabus.pdf' | relative_url}})
+
 ##### Teaching Assistant (UCLA)
 
 - **Computational Linguistics II (Ling 185B)**
