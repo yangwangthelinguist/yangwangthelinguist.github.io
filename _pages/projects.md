@@ -2,7 +2,7 @@
 layout: page
 title: Research
 permalink: /Research/
-description: 
+description: I study questions in theoretical phonology and phonological learning. My research centers around two major lines of questions. First, what kind of computational device is natural language phonology and morphology? Second, how do speakers acquire the knowledge of phonological and morphophonological regularities? More specifically, what types of inductive biases guide the learner and how to properly test them? Through my research program, I aspire to demystify the grammar, the learner, the broad cognitive system, and their interactions in a more precise manner. You can look at summaries of my projects below. Feel free to contact me if you have questions, or want to know more details of them.
 nav: true
 nav_order: 1
 display_categories:

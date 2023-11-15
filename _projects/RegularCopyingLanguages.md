@@ -4,7 +4,7 @@ title: Formal characterization of reduplication
 description: A formal system that unifies reduplication with the rest of (morpho-)phonological processes
 img: assets/img/rcls.png
 importance: 1
-category: work
+category: reduplication
 ---
 In the classical Chomsky Hierarchy, productive total reduplication requires computational power beyond context-free, while other phonological and morphological patterns are regular, or even sub-regular. Existing language classes characterizing reduplicated strings are predicted to generate context-free patterns, such as the palindrome language. This does not match empirical observations. Reduplication, especially total reduplication, is well-attested, yielding various generalizations as the foundation for morphophonological theories. However, the palindrome pattern is not only rare in phonology and morphology, but also relies on conscious reasoning in its computation rather than on implicit linguistic knowledge.
 
