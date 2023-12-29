@@ -10,7 +10,7 @@ layout: default
           </header>
         
           <body>
-            <p> Download my CV: {% if page.cv_pdf %}<a href="{{ page.cv_pdf | prepend: 'assets/pdf/' | relative_url}}" target="_blank" rel="noopener noreferrer" class="float-none"><i class="fas fa-file-pdf"></i></a>{% endif %}<p>
+            <p> Download my CV here: {% if page.cv_pdf %}<a href="{{ page.cv_pdf | prepend: 'assets/pdf/' | relative_url}}" target="_blank" rel="noopener noreferrer" class="float-none"><i class="fas fa-file-pdf"></i></a>{% endif %}<p>
               <embed src="{{ '/assets/pdf/YWang_CV.pdf' | relative_url }}" width="1000px" height="2100px" />
             </body>
 

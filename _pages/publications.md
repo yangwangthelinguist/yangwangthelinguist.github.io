@@ -29,7 +29,6 @@ nav_order: 2
     {%- bibliography_count -f {{site.scholar.bibliography}} -q @*[category = {{section.bibquery}} && year={{y}}] -%}
     {%- endcapture -%}
     {%- if citecount != "0" %}
-      <!--<h2 class="year">{{y}}</h2>-->
       {% bibliography -f {{site.scholar.bibliography}} -q @*[category = {{section.bibquery}} && year={{y}}] %}
     {%- endif -%}
   {%- endfor %}

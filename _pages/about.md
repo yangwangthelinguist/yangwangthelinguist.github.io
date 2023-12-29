@@ -10,7 +10,7 @@ profile:
   address: >
     <p> 王洋 [jɑŋ˧˥ wɑŋ˧˥]</p>
     <p>Pronouns: she/her/hers</p>
-    <p>yangwangx@g.ucla.edu</p>
+    <p> yangwangx@g dot ucla dot edu</p>
 
 news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts

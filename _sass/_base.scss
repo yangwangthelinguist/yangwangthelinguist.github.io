@@ -81,6 +81,10 @@ blockquote {
   text-align: center;
 }
 
+.under {
+  text-decoration: underline gray;
+}
+
 // Card
 
 .card {
@@ -120,7 +124,7 @@ blockquote {
   .address {
     margin-bottom: 5px;
     margin-top: 5px;
-    font-family: monospace;
+    font-family:Cambria, Cochin, Georgia,Times, 'Times New Roman', serif;
 
     p {
       display: inline-block;
@@ -555,8 +559,8 @@ footer.sticky-bottom {
   }
   /* Publications - Year display in mobile */
   h2.year {
-  color: var(--global-divider-color);
-  border-bottom: 1px solid var(--global-divider-color);
+  color: gray;
+  border-bottom: 1px solid gray;
   margin-bottom: 2rem!important;
   // reset
   border-top: 0 !important;
@@ -593,7 +597,7 @@ text-align: left;
   }
 
   h2.bibliography {
-    color: var(--global-divider-color);
+    color: gray;
     border-top: 1px solid var(--global-divider-color);
     padding-top: 1rem;
     margin-top: 2rem;
