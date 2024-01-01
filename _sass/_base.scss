@@ -17,6 +17,7 @@ li,
 span,
 strong {
   color: var(--global-text-color);
+  font-family: Palatino, "EB Garamond", Georgia, "Times New Roman", serif;
 }
 
 hr {
@@ -154,8 +155,9 @@ blockquote {
 }
 
 .post-description {
+  margin-top: 1.5rem; 
   margin-bottom: 2rem;
-  font-size: 0.875rem;
+  font-size: 0.95rem;
 
   a {
     color: inherit;
@@ -559,7 +561,7 @@ footer.sticky-bottom {
   }
   /* Publications - Year display in mobile */
   h2.year {
-  color: gray;
+  color: 	#B0B0B0;
   border-bottom: 1px solid gray;
   margin-bottom: 2rem!important;
   // reset
@@ -569,16 +571,19 @@ footer.sticky-bottom {
 }
 }
 
+
+
 /* Bib type style */
 p.bibtitle {
 color: var(--global-theme-color);
 font-weight: 400;
-font-size: 1.5em;
+font-size: 1.7em;
 text-align: left;
 }
 
 .publications {
-  margin-top: 2rem;
+  margin-top: 0.6rem;
+  font-family: 'Times New Roman', Times, serif;
 
   h1 {
     color: var(--global-theme-color);
@@ -597,11 +602,12 @@ text-align: left;
   }
 
   h2.bibliography {
-    color: gray;
+    color: #B0B0B0;
     border-top: 1px solid var(--global-divider-color);
     padding-top: 1rem;
-    margin-top: 2rem;
+    margin-top: 1rem;
     margin-bottom: -2rem;
+    margin-right: -2.75rem;
     text-align: right;
   }
 
@@ -609,6 +615,7 @@ text-align: left;
     list-style: none;
     padding: 0;
     margin-top: 0;
+    margin-right:-25rem;
 
     li {
       margin-bottom: 1rem;
@@ -616,11 +623,11 @@ text-align: left;
       .preview {
         width: 100%;
         min-width: 80px;
-        max-width: 200px;
+        max-width: 300px;
       }
 
       .abbr {
-        height: 2rem;
+        height: 5rem;
         margin-bottom: 0.5rem;
 
         abbr {
@@ -645,7 +652,8 @@ text-align: left;
       }
 
       .title {
-        font-weight: bolder;
+        font-weight: 350;
+        font-size:1.09rem;
       }
 
       .author {

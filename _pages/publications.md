@@ -16,7 +16,6 @@ nav: true
 nav_order: 2
 ---
 
-
 <div class="publications">
 
 {%- for section in page.sections %}
@@ -30,6 +29,7 @@ nav_order: 2
     {%- endcapture -%}
     {%- if citecount != "0" %}
       {% bibliography -f {{site.scholar.bibliography}} -q @*[category = {{section.bibquery}} && year={{y}}] %}
+      
     {%- endif -%}
   {%- endfor %}
   <hr>

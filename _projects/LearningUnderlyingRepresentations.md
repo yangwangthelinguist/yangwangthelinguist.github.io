@@ -16,7 +16,7 @@ My ongoing work in collaboration with [Bruce Hayes](https://linguistics.ucla.edu
 For more details, see below:
 - **AMP 2022 Poster**
 
-    Wang, Yang and Bruce Hayes. 2022. Learning underlying representations: Expectation-Maximization and the KK-Hierarchy. <a href="{{ site.url }}/assets/pdf/WangHayes2022_LearningUR_AMPPoster.pdf" target="_blank">Poster</a> presented at the Annual Meeting on Phonology. UCLA, Los Angeles, CA. October 2022.
+    Wang, Yang and Bruce Hayes. 2022. Learning underlying representations: Expectation-Maximization and the KK-Hierarchy. <a href="{{ site.url }}/assets/pdf/WangHayes2022_LearningUR_AMPPoster.pdf" target="_blank">Poster</a> presented at *the Annual Meeting on Phonology*. UCLA, Los Angeles, CA. October 2022.
     
 - **Manuscript** 
 
