@@ -226,7 +226,7 @@ blockquote {
 
   .navbar-nav .nav-item.active>.nav-link {
     background-color: inherit;
-    font-weight: bolder;
+    font-weight: 600;
     color: var(--global-theme-color);
 
     &:hover {
@@ -561,13 +561,19 @@ footer.sticky-bottom {
   }
   /* Publications - Year display in mobile */
   h2.year {
-  color: 	#B0B0B0;
+  color: 	white;
   border-bottom: 1px solid gray;
   margin-bottom: 2rem!important;
   // reset
   border-top: 0 !important;
   padding-top: 0 !important;
   margin-top: 0 !important;
+}
+ol.bibliography {
+  list-style: none;
+  padding: 0;
+  margin-top: 0;
+  margin-bottom:0;
 }
 }
 
@@ -576,7 +582,7 @@ footer.sticky-bottom {
 /* Bib type style */
 p.bibtitle {
 color: var(--global-theme-color);
-font-weight: 400;
+font-weight: 600;
 font-size: 1.7em;
 text-align: left;
 }
@@ -607,7 +613,7 @@ text-align: left;
     padding-top: 1rem;
     margin-top: 1rem;
     margin-bottom: -2rem;
-    margin-right: -2.75rem;
+    margin-right: -2rem;
     text-align: right;
   }
 
@@ -615,7 +621,7 @@ text-align: left;
     list-style: none;
     padding: 0;
     margin-top: 0;
-    margin-right:-25rem;
+    margin-bottom:0;
 
     li {
       margin-bottom: 1rem;
@@ -652,14 +658,13 @@ text-align: left;
       }
 
       .title {
-        font-weight: 350;
-        font-size:1.09rem;
+        font-weight:600;
+        font-size:1rem;
       }
 
       .author {
         a {
           border-bottom: 1px dashed var(--global-theme-color);
-
           &:hover {
             border-bottom-style: solid;
             text-decoration: none;
@@ -669,6 +674,7 @@ text-align: left;
         >em {
           border-bottom: 1px solid;
           font-style: normal;
+          font-weight:lighter;
         }
 
         >span.more-authors {
