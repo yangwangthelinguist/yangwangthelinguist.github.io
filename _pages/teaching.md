@@ -10,10 +10,9 @@ nav_order: 3
 
 <br/>
 
-### Current (Spring 2024)
-- Teaching assistant for **Applied Phonology (Ling 119A)**
-    - Office hour: Thursday 2pm-3pm (or by appointment)
-    - Location: Rolfe 1110 (or over zoom per request)
+### Current (Fall 2024)
+##### Instructor (University of Utah)
+- TBA
 
 
 <br/>
@@ -38,3 +37,6 @@ nav_order: 3
 - **Introduction to Linguistic Analysis (Ling 20)**  
     - in Fall 2020 (Instructor: Tim Hunter) 
     - in Fall 2022 (Instructor: Ben Eischens)         
+
+- **Applied Phonology (Ling 119A)**
+    - in Spring 2024 (Instructor: Sam Zukoff)

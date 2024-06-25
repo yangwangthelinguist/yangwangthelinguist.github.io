@@ -140,58 +140,58 @@
           <div class="links">
           [{%- if entry.abstract %}
             <!--<a class="abstract btn btn-outline-light btn-sm z-depth-0" role="button">Abstract</a>-->
-            <a class="abstract text-info">Abstract</a> |
+            <a class="abstract" style="color:var(--global-theme-color)">Abstract</a> |
           {%- endif %}
           {%- if entry.arxiv %}
-            <a href="http://arxiv.org/abs/{{ entry.arxiv }}" class="text-info" role="button">arXiv</a> |
+            <a href="http://arxiv.org/abs/{{ entry.arxiv }}"  style="color:var(--global-theme-color)" role="button" style="color: inherit;">arXiv</a> |
           {%- endif %}
           {%- if entry.bibtex_show %}
-            <a class="bibtex text-info">bibtext</a> |
+            <a class="bibtex"  style="color:var(--global-theme-color)">bibtext</a> |
           {%- endif %}
           {%- if entry.html %}
-            <a href="{{ entry.html }}" class="text-info" role="button">HTML</a> |
+            <a href="{{ entry.html }}"  style="color:var(--global-theme-color)" role="button" >HTML</a> |
           {%- endif %}
           {%- if entry.pdf %}
             {% if entry.pdf contains '://' -%}
-            <a href="{{ entry.pdf }}" class="text-info" target = "_blank" role="button">PDF</a> |
+            <a href="{{ entry.pdf }}" target = "_blank" role="button"  style="color:var(--global-theme-color)">PDF</a> |
             {%- else -%}
-            <a href="{{ entry.pdf | prepend: '/assets/pdf/' | relative_url }}" class="text-info" target = "_blank" role="button">PDF</a> |
+            <a href="{{ entry.pdf | prepend: '/assets/pdf/' | relative_url }}"  target = "_blank"  style="color:var(--global-theme-color)" role="button">PDF</a> |
             {%- endif %}
           {%- endif %}
           {%- if entry.supp %}
             {% if entry.supp contains '://' -%}
-            <a href="{{ entry.supp }}" class="text-info" role="button">Supp</a> |
+            <a href="{{ entry.supp }}"  style="color:var(--global-theme-color)" role="button" style="color: inherit;">Supp</a> |
             {%- else -%}
-            <a href="{{ entry.supp | prepend: '/assets/pdf/' | relative_url }}" class="text-info" role="button">Supp</a> |
+            <a href="{{ entry.supp | prepend: '/assets/pdf/' | relative_url }}"  style="color:var(--global-theme-color)" role="button" style="color: inherit;">Supp</a> |
             {%- endif %}
           {%- endif %}
           {%- if entry.blog %}
-            <a href="{{ entry.blog }}" class="text-info" role="button">Blog</a> |
+            <a href="{{ entry.blog }}"  style="color:var(--global-theme-color)" role="button" style="color: inherit;">Blog</a> |
           {%- endif %}
           {%- if entry.code %}
-            <a href="{{ entry.code }}" class="text-info" role="button">Code</a> |
+            <a href="{{ entry.code }}"  style="color:var(--global-theme-color)" role="button" style="color: inherit;">Code</a> |
           {%- endif %}
           {%- if entry.poster %}
             {% if entry.poster contains '://' -%}
-            <a href="{{ entry.poster }}" class="text-info" role="button"> Poster</a> |
+            <a href="{{ entry.poster }}" role="button"  style="color:var(--global-theme-color)"> Poster</a> |
             {%- else -%}
-            <a href="{{ entry.poster | prepend: '/assets/pdf/' | relative_url }}" class="text-info" target = "_blank"> Poster</a> |
+            <a href="{{ entry.poster | prepend: '/assets/pdf/' | relative_url }}" style="color:var(--global-theme-color)" target = "_blank"> Poster</a> |
             {%- endif %}
           {%- endif %}
           {%- if entry.slides %}
             {% if entry.slides contains '://' -%}
-            <a href="{{ entry.slides }}" class="text-info" role="button"> Slides</a> |
+            <a href="{{ entry.slides }}"  style="color:var(--global-theme-color)" role="button"> Slides</a> |
             {%- else -%}
-            <a href="{{ entry.slides | prepend: '/assets/pdf/' | relative_url }}" class="text-info" target = "_blank"> Slides</a> |
+            <a href="{{ entry.slides | prepend: '/assets/pdf/' | relative_url }}" target = "_blank" role="button" style="color:var(--global-theme-color)"> Slides</a> |
             {%- endif %}
           {%- endif %}
           {%- if entry.website %}
-            | <a href="{{ entry.website }}" class="text-info" role="button">Website</a> |
+            | <a href="{{ entry.website }}"  style="color:var(--global-theme-color)" role="button" >Website</a> |
           {%- endif %}
           {%- if entry.citation %}
           <!--<a class="abstract btn btn-outline-info btn-sm z-depth-0" role="button">Cite</a>-->
             <!--<a class="abstract btn btn-outline-info z-depth-0" role="button">Cite</a>-->
-            <a class="abstract text-info">cite</a>
+            <a class="abstract"  style="color:var(--global-theme-color)">Cite</a>
           {%- endif %} ]
           </div>
           <!--{% if site.badges %}
