@@ -117,7 +117,7 @@
         {%- elsif masterthesis contains entry.type -%}
           {%- capture entrytype -%}<em>Master's thesis, {{entry.school}}</em> {%- endcapture -%}
         {%- elsif phdthesis contains entry.type -%}
-          {%- capture entrytype -%}<em>PhD thesis, {{entry.school}}</em> {%- endcapture -%}
+          {%- capture entrytype -%}<em>Doctoral dissertation, {{entry.school}}</em> {%- endcapture -%}
         {%- else -%}
           {%- capture entrytype -%}{%- endcapture -%}
         {%- endif -%}

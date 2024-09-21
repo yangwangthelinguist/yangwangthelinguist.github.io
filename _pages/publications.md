@@ -8,9 +8,9 @@ sections:
     text: "Peer-reviewed articles and proceedings"
   - bibquery: "talk"
     text: "Presentations"
-  - bibquery: "misc"
+  - bibquery: "thesis"
     text: "Theses"
-years: [2023, 2022, 2021]
+years: [2024, 2023, 2022, 2021]
 social: true
 nav: true
 nav_order: 2

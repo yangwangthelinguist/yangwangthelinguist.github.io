@@ -10,9 +10,12 @@ nav_order: 3
 
 <br/>
 
-### Current (Fall 2024)
-##### Instructor (University of Utah)
-- TBA
+### Current: Fall 2024
+##### Ling 2200: Intro to the study of language
+- <a href="{{ site.url }}/assets/pdf/Wang2024LING2200Syllabus.pdf" target="_blank"> Syllabus</a>
+- Role: Instructor
+- Office hour: T/TR 2:00 pm - 3:30 pm
+- Office: LNCO 2321
 
 
 <br/>
