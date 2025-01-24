@@ -10,11 +10,11 @@ nav_order: 3
 
 <br/>
 
-### Current: Fall 2024
-##### Ling 2200: Intro to the study of language
-- <a href="{{ site.url }}/assets/pdf/Wang2024LING2200Syllabus.pdf" target="_blank"> Syllabus</a>
+### Current: Spring 2024
+##### Ling 3340: Introduction to Computational Linguistics
+- <a href="{{ site.url }}/assets/pdf/WangSpring2025_LING3340_syllabus.pdf" target="_blank"> Syllabus</a>
 - Role: Instructor
-- Office hour: T/TR 2:00 pm - 3:30 pm
+- Office hour: M/W 10:00 am - 11:30 am
 - Office: LNCO 2321
 
 
@@ -22,6 +22,13 @@ nav_order: 3
 <hr>
 
 ### Past
+
+##### Instructor (University of Utah)
+- **Ling 2200: Intro to the Study of Language**       
+    - in Fall 2024
+    - <a href="{{ site.url }}/assets/pdf/Wang2024LING2200Syllabus.pdf" target="_blank"> Syllabus</a>
+    
+
 ##### Instructor (UCLA)
 - **Computational Linguistics I (Ling 185A)**       
     - in Summer Session C, 2023 
