@@ -18,8 +18,8 @@ For more details, see below:
 
     Wang, Yang and Bruce Hayes. 2022. Learning underlying representations: Expectation-Maximization and the KK-Hierarchy. <a href="{{ site.url }}/assets/pdf/WangHayes2022_LearningUR_AMPPoster.pdf" target="_blank">Poster</a> presented at *the Annual Meeting on Phonology*. UCLA, Los Angeles, CA. October 2022.
     
-- **Manuscript** 
+- **LI paper** 
 
-    Our manuscript is currently under revision. You can email me for a copy. I will attach a pdf soon.
+    Wang, Yang, and [Bruce Hayes](https://brucehayes.org/). (To appear). [Learning underlying representations: the role of abstractness](https://direct.mit.edu/ling/article-abstract/doi/10.1162/ling_a_00553/128804/Learning-Phonological-Underlying-Representations?redirectedFrom=fulltext). *Linguistic Inquiry*.https://doi.org/10.1162/ling_a_00553.
 
 ---
