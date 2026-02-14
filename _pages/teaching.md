@@ -10,11 +10,12 @@ nav_order: 3
 
 <br/>
 
-### Current: Spring 2024
-##### Ling 3340: Introduction to Computational Linguistics
-- <a href="{{ site.url }}/assets/pdf/WangSpring2025_LING3340_syllabus.pdf" target="_blank"> Syllabus</a>
+### Current: Spring 2026
+##### Ling 3010: Intro Phonetics & Phonology <a href="{{ site.url }}/assets/pdf/WangSpring2026_LING3010_syllabus.pdf" target="_blank"> <span style="font-size: 0.5em;color:rgb(145, 3, 3)"> [Syllabus]</span></a>
+
+##### Ling 4011: Interm Phonetics & Phonology <a href="{{ site.url }}/assets/pdf/WangSpring2026_LING4011_syllabus.pdf" target="_blank"> <span style="font-size: 0.5em;color:rgb(145, 3, 3)"> [Syllabus]</span></a>
 - Role: Instructor
-- Office hour: M/W 10:00 am - 11:30 am
+- Office hour: T/TR 1:00 pm - 2:00 am
 - Office: LNCO 2321
 
 
@@ -24,15 +25,19 @@ nav_order: 3
 ### Past
 
 ##### Instructor (University of Utah)
+- **Ling 6011: Formal phonolgy (graduate)**
+    - in Fall 2025 <a href="{{ site.url }}/assets/pdf/WangFall2025_LING6011_syllabus.pdf" target="_blank"><span style="font-size: 0.5em;color:rgb(145, 3, 3)"> [Syllabus]</span></a>
+- **Ling 6080: Topics in computational linguistics (models of morphophonological learning; graduate)**
+    -  in Fall 2025 <a href="{{ site.url }}/assets/pdf/WangFall2025_LING6080_syllabus.pdf" target="_blank"><span style="font-size: 0.5em;color:rgb(145, 3, 3)"> [Syllabus]</span></a>
+- **Ling 3340: Introduction to Computational Linguistics**
+    - in Spring 2025 <a href="{{ site.url }}/assets/pdf/WangSpring2025_LING3340_syllabus.pdf" target="_blank"> <span style="font-size: 0.5em;color:rgb(145, 3, 3)"> [Syllabus]</span></a>
 - **Ling 2200: Intro to the Study of Language**       
-    - in Fall 2024
-    - <a href="{{ site.url }}/assets/pdf/Wang2024LING2200Syllabus.pdf" target="_blank"> Syllabus</a>
+    - in Fall 2024 <a href="{{ site.url }}/assets/pdf/Wang2024LING2200Syllabus.pdf" target="_blank"> <span style="font-size: 0.5em;color:rgb(145, 3, 3)"> [Syllabus]</span></a>
     
 
 ##### Instructor (UCLA)
 - **Computational Linguistics I (Ling 185A)**       
-    - in Summer Session C, 2023 
-    - <a href="{{ site.url }}/assets/pdf/Wang2023Ling185ASyllabus.pdf" target="_blank"> Syllabus</a>
+    - in Summer Session C, 2023  <a href="{{ site.url }}/assets/pdf/Wang2023Ling185ASyllabus.pdf" target="_blank"> <span style="font-size: 0.5em;color:rgb(145, 3, 3)"> [Syllabus]</span></a>
     
 ##### Teaching Assistant (UCLA)
 

@@ -10,7 +10,7 @@ sections:
     text: "Presentations"
   - bibquery: "thesis"
     text: "Theses"
-years: [2024, 2023, 2022, 2021]
+years: [to appear, 2024, 2023, 2022, 2021]
 social: true
 nav: true
 nav_order: 2
